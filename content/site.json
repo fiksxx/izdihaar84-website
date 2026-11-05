@@ -1,0 +1,492 @@
+{
+  "_petunjuk": "Semua data situs ada di file ini. Setelah mengubahnya, jalankan: python3 build.py. Isian kosong (\"\") ditandai 'Belum diisi' atau disembunyikan. Foto disimpan di src/assets/foto/ lalu dirujuk lewat kolom 'image'.",
+  "site": {
+    "name": "CV Izdihaar 84",
+    "tagline": "Service with Loyalty",
+    "base_url": "https://izdihaar84.com",
+    "description": "CV Izdihaar 84 di Makassar menaungi tiga perusahaan di bidang alat dan bahan habis pakai laboratorium serta mesin dan peralatan untuk pertanian, peternakan, dan perikanan, dan melayani pengadaan furniture umum dan laboratorium."
+  },
+  "contact": {
+    "address": "Jl. Kebahagiaan Utara 18 No. 371, Tamalanrea, Kec. Tamalanrea, Kota Makassar, Sulawesi Selatan 90245",
+    "phone": "+62 811-4440-7162",
+    "whatsapp": "+62 811-4440-7162",
+    "email": "cv.izdihaar84@gmail.com",
+    "hours": "Senin–Sabtu, 08.00–17.00 WIB",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Jl.%20Kebahagiaan%20Utara%2018%20No.%20371%2C%20Tamalanrea%2C%20Kec.%20Tamalanrea%2C%20Kota%20Makassar%2C%20Sulawesi%20Selatan%2090245"
+  },
+  "about": {
+    "founded": "",
+    "vision": "",
+    "mission": [],
+    "milestones": []
+  },
+  "companies": [
+    {
+      "slug": "marajae-utama",
+      "name": "CV Marajae Utama",
+      "field": "lab",
+      "focus": "Alat laboratorium dan bahan habis pakai laboratorium",
+      "description": "Berfokus pada penyediaan alat laboratorium dan bahan habis pakai laboratorium.",
+      "website": "",
+      "logo": "assets/logo/marajae-utama.png"
+    },
+    {
+      "slug": "artha-falah-utama",
+      "name": "CV Artha Falah Utama",
+      "field": "lab",
+      "focus": "Alat laboratorium dan bahan habis pakai untuk penelitian, pendidikan, industri, dan laboratorium",
+      "description": "Berfokus pada penyediaan alat laboratorium dan bahan habis pakai untuk kebutuhan penelitian, pendidikan, industri, dan laboratorium.",
+      "website": "",
+      "logo": "assets/logo/artha-falah-utama.png"
+    },
+    {
+      "slug": "karya-vetindo-utama",
+      "name": "CV Karya Vetindo Utama",
+      "field": "agro",
+      "focus": "Mesin dan peralatan laboratorium untuk pertanian, peternakan, dan perikanan",
+      "description": "Berfokus pada mesin dan peralatan laboratorium untuk sektor pertanian, peternakan, dan perikanan.",
+      "website": "",
+      "logo": "assets/logo/karya-vetindo-utama.png"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Pemasok alat dan bahan laboratorium",
+      "client": "Universitas Khairun",
+      "location": "Ternate, Maluku Utara",
+      "category": "Pengadaan",
+      "scope": "Alat laboratorium dan bahan habis pakai",
+      "summary": "Pemasokan alat laboratorium beserta bahan habis pakainya untuk kebutuhan laboratorium di lingkungan Universitas Khairun.",
+      "image": "assets/foto/mikroskop.jpg"
+    },
+    {
+      "title": "Pemasok alat dan bahan laboratorium",
+      "client": "Universitas Islam Negeri Alauddin Makassar",
+      "location": "Makassar, Sulawesi Selatan",
+      "category": "Pengadaan",
+      "scope": "Alat laboratorium dan bahan habis pakai",
+      "summary": "Pemasokan alat laboratorium beserta bahan habis pakainya untuk kebutuhan laboratorium di lingkungan UIN Alauddin Makassar.",
+      "image": "assets/foto/pipet-meja.jpg"
+    },
+    {
+      "title": "Pemasok alat dan bahan laboratorium",
+      "client": "Politeknik Negeri Ujung Pandang",
+      "location": "Makassar, Sulawesi Selatan",
+      "category": "Pengadaan",
+      "scope": "Alat laboratorium dan bahan habis pakai",
+      "summary": "Pemasokan alat laboratorium beserta bahan habis pakainya untuk kebutuhan laboratorium di lingkungan Politeknik Negeri Ujung Pandang.",
+      "image": "assets/foto/meja-lab.jpg"
+    },
+    {
+      "title": "Pemasok alat dan bahan laboratorium",
+      "client": "Instansi pemerintah",
+      "location": "",
+      "category": "Pengadaan",
+      "scope": "Alat laboratorium dan bahan habis pakai",
+      "summary": "Pemasokan alat laboratorium dan bahan habis pakai untuk beberapa instansi pemerintah.",
+      "image": "assets/foto/gudang.jpg"
+    }
+  ],
+  "_contoh_proyek": {
+    "title": "Nama proyek",
+    "category": "Pengadaan | Kerja sama | Implementasi",
+    "client": "Nama instansi atau klien",
+    "location": "Kota, Provinsi",
+    "year": "2026",
+    "scope": "Ringkasan lingkup pekerjaan",
+    "summary": "Dua sampai tiga kalimat tentang kebutuhan klien dan solusi yang diberikan.",
+    "image": "assets/foto/nama-file.jpg"
+  },
+  "news": [
+    {
+      "slug": "menyiapkan-pengadaan-alat-laboratorium-di-instansi",
+      "title": "Menyiapkan pengadaan alat laboratorium di instansi",
+      "category": "Informasi bisnis",
+      "date": "2026-10-13",
+      "image": "assets/foto/gudang.jpg",
+      "summary": "Pengadaan di instansi punya tahapan dan dokumen sendiri. Persiapan yang rapi membantu barang yang datang benar-benar sesuai kebutuhan laboratorium.",
+      "body": [
+        {
+          "p": "Bagi perguruan tinggi dan instansi pemerintah, pengadaan alat laboratorium tidak cukup hanya memilih barang. Ada tahapan perencanaan, anggaran, dan administrasi yang harus dilalui. Kebutuhan teknis dari laboratorium perlu dituliskan dengan jelas supaya tidak hilang di tengah proses."
+        },
+        {
+          "h": "Mulai dari pengguna alat"
+        },
+        {
+          "p": "Libatkan dosen, laboran, atau analis sejak awal. Merekalah yang tahu pengujian apa yang akan dilakukan dan spesifikasi minimal apa yang dibutuhkan. Tanpa masukan mereka, alat yang dibeli bisa saja canggih tetapi tidak cocok dengan pekerjaan sehari-hari."
+        },
+        {
+          "h": "Spesifikasi yang jelas"
+        },
+        {
+          "p": "Tulis spesifikasi berdasarkan fungsi dan kinerja, misalnya kapasitas, rentang ukur, dan ketelitian, bukan sekadar menyalin brosur satu merek. Spesifikasi seperti ini memudahkan penyedia menawarkan barang yang setara dan memudahkan panitia menilai penawaran."
+        },
+        {
+          "h": "Kelengkapan yang sering terlupa"
+        },
+        {
+          "ul": [
+            "Jumlah barang dan lokasi penempatannya.",
+            "Perkiraan harga sebagai acuan anggaran.",
+            "Ketentuan pengiriman, instalasi, dan uji fungsi.",
+            "Garansi, pelatihan pengguna, dan ketersediaan suku cadang.",
+            "Bahan habis pakai pendukung agar alat bisa langsung dipakai."
+          ]
+        },
+        {
+          "h": "Saat barang tiba"
+        },
+        {
+          "p": "Periksa kesesuaian barang dengan spesifikasi, kelengkapan aksesori, serta dokumen seperti buku manual dan kartu garansi. Lakukan uji fungsi bersama pengguna sebelum berita acara serah terima ditandatangani."
+        }
+      ]
+    },
+    {
+      "slug": "merawat-mikroskop-agar-tetap-jernih",
+      "title": "Merawat mikroskop agar tetap jernih dan awet",
+      "category": "Artikel",
+      "date": "2026-10-13",
+      "image": "assets/foto/mikroskop.jpg",
+      "summary": "Mikroskop yang dirawat dengan benar bisa dipakai bertahun-tahun. Ini kebiasaan sederhana yang menjaga lensa tetap bersih dan mekanismenya tetap halus.",
+      "body": [
+        {
+          "p": "Mikroskop termasuk alat yang paling sering dipakai di laboratorium pendidikan, dan juga yang paling sering rusak karena kebiasaan kecil. Lensa tergores, cahaya redup, atau fokus yang macet biasanya bukan cacat alat, melainkan akibat perawatan harian yang terlewat."
+        },
+        {
+          "h": "Sebelum dan sesudah dipakai"
+        },
+        {
+          "ul": [
+            "Angkat mikroskop dengan dua tangan: satu memegang lengan, satu menopang dasar.",
+            "Mulai dari lensa objektif perbesaran terendah, lalu naikkan bertahap.",
+            "Setelah selesai, turunkan meja preparat, kembalikan ke objektif terendah, dan matikan lampu.",
+            "Pasang sarung debu setelah alat dingin."
+          ]
+        },
+        {
+          "h": "Membersihkan lensa"
+        },
+        {
+          "p": "Gunakan kertas lensa atau kain mikrofiber khusus, bukan tisu biasa yang seratnya kasar. Untuk sisa minyak imersi, basahi kertas lensa dengan sedikit cairan pembersih lensa, lalu usap memutar dari tengah ke tepi. Jangan membongkar lensa objektif sendiri; bagian dalamnya sebaiknya ditangani teknisi."
+        },
+        {
+          "h": "Penyimpanan"
+        },
+        {
+          "p": "Simpan mikroskop di lemari yang kering dan bebas debu. Di daerah lembap, jamur bisa tumbuh di permukaan lensa. Lemari dengan penyerap kelembapan seperti silika gel membantu mencegahnya, asalkan silika gel diganti secara berkala."
+        },
+        {
+          "h": "Tanda perlu diservis"
+        },
+        {
+          "p": "Jika gambar tetap buram setelah lensa dibersihkan, putaran fokus terasa berat, atau lampu berkedip, minta teknisi memeriksanya. Catat tanggal servis setiap unit agar perawatan berikutnya mudah dijadwalkan."
+        }
+      ]
+    },
+    {
+      "slug": "kalibrasi-alat-laboratorium",
+      "title": "Kalibrasi alat laboratorium: kapan dan mengapa perlu",
+      "category": "Artikel",
+      "date": "2026-10-13",
+      "image": "assets/foto/pipet-meja.jpg",
+      "summary": "Alat ukur yang tidak dikalibrasi bisa memberi hasil meleset tanpa disadari. Berikut gambaran singkat tentang kalibrasi dan cara menjadwalkannya.",
+      "body": [
+        {
+          "p": "Timbangan, pipet, termometer, dan pH meter adalah alat ukur. Seiring waktu, hasil pengukurannya bisa bergeser sedikit demi sedikit. Pergeseran ini sering tidak terasa sampai hasil pengujian mulai tidak konsisten."
+        },
+        {
+          "h": "Apa itu kalibrasi"
+        },
+        {
+          "p": "Kalibrasi adalah membandingkan hasil ukur alat dengan standar yang nilainya sudah diketahui. Dari perbandingan itu terlihat seberapa besar penyimpangan alat, dan apakah alat masih layak dipakai atau perlu disetel ulang."
+        },
+        {
+          "h": "Kapan alat perlu dikalibrasi"
+        },
+        {
+          "ul": [
+            "Saat alat baru diterima, sebelum dipakai untuk pengujian.",
+            "Secara berkala sesuai jadwal laboratorium atau rekomendasi pabrikan.",
+            "Setelah alat dipindahkan, terjatuh, atau diperbaiki.",
+            "Ketika hasil pengukuran mulai terlihat janggal."
+          ]
+        },
+        {
+          "h": "Pemeriksaan harian"
+        },
+        {
+          "p": "Di antara jadwal kalibrasi, laboratorium bisa melakukan pemeriksaan sederhana. Misalnya menimbang anak timbangan standar sebelum memakai timbangan analitik, atau mengecek pH meter dengan larutan penyangga. Catat hasilnya di buku log alat."
+        },
+        {
+          "h": "Saat membeli alat baru"
+        },
+        {
+          "p": "Tanyakan apakah alat dilengkapi sertifikat kalibrasi dari pabrik, dan bagaimana kalibrasi berikutnya bisa dilakukan. Informasi ini penting terutama bagi laboratorium yang hasil ujinya menjadi dasar keputusan."
+        }
+      ]
+    },
+    {
+      "slug": "laboratorium-di-sektor-peternakan",
+      "title": "Laboratorium di sektor peternakan: apa saja yang diuji",
+      "category": "Artikel",
+      "date": "2026-10-13",
+      "image": "assets/foto/sapi.jpg",
+      "summary": "Laboratorium peternakan membantu memastikan pakan bermutu dan ternak tetap sehat. Berikut gambaran pekerjaan dan peralatan yang umumnya dibutuhkan.",
+      "body": [
+        {
+          "p": "Di balik ternak yang sehat dan produktif, ada pekerjaan laboratorium yang jarang terlihat. Laboratorium peternakan, baik di kampus, dinas, maupun perusahaan, umumnya menangani dua hal besar: mutu pakan dan kesehatan hewan."
+        },
+        {
+          "h": "Pengujian pakan"
+        },
+        {
+          "p": "Pakan menyumbang biaya terbesar dalam usaha peternakan, sehingga kandungan gizinya perlu diketahui. Yang biasa diukur antara lain kadar air, protein, lemak, serat, dan abu. Pekerjaan ini membutuhkan timbangan analitik, oven pengering, tanur, serta perangkat analisis protein dan lemak."
+        },
+        {
+          "h": "Kesehatan hewan"
+        },
+        {
+          "p": "Untuk kesehatan hewan, laboratorium memeriksa sampel seperti darah, feses, atau jaringan. Peralatan yang umum dipakai antara lain mikroskop, sentrifus, inkubator, dan lemari pendingin untuk menyimpan sampel dan reagen."
+        },
+        {
+          "h": "Yang perlu dipertimbangkan"
+        },
+        {
+          "ul": [
+            "Jenis dan jumlah sampel yang ditangani setiap hari.",
+            "Pasokan bahan habis pakai seperti reagen, tabung sampel, dan media.",
+            "Kebutuhan listrik dan ruang untuk alat seperti tanur dan oven.",
+            "Pelatihan bagi petugas yang akan mengoperasikan alat."
+          ]
+        },
+        {
+          "p": "Grup kami memasok alat laboratorium peternakan beserta bahan habis pakainya, termasuk untuk perguruan tinggi."
+        }
+      ]
+    },
+    {
+      "slug": "memantau-kualitas-air-kolam-dan-keramba",
+      "title": "Memantau kualitas air di kolam dan keramba ikan",
+      "category": "Artikel",
+      "date": "2026-10-13",
+      "image": "assets/foto/keramba.jpg",
+      "summary": "Banyak masalah di budidaya ikan berawal dari kualitas air. Mengenal parameter dasarnya membantu menentukan alat ukur yang perlu disiapkan.",
+      "body": [
+        {
+          "p": "Dalam budidaya ikan, air adalah tempat hidup sekaligus sumber masalah. Ikan yang lambat tumbuh, mudah sakit, atau mati mendadak sering kali disebabkan perubahan kualitas air yang tidak terpantau."
+        },
+        {
+          "h": "Parameter yang umum diukur"
+        },
+        {
+          "ul": [
+            "Suhu air, yang memengaruhi nafsu makan dan metabolisme ikan.",
+            "Oksigen terlarut, terutama menjelang pagi saat kadarnya biasanya paling rendah.",
+            "pH atau tingkat keasaman air.",
+            "Amonia dan nitrit, hasil penguraian sisa pakan dan kotoran ikan.",
+            "Kecerahan atau kekeruhan air."
+          ]
+        },
+        {
+          "h": "Di lapangan dan di laboratorium"
+        },
+        {
+          "p": "Untuk pemantauan harian, alat ukur portabel seperti termometer, pH meter, dan DO meter praktis dibawa ke kolam atau keramba. Parameter seperti amonia dan nitrit bisa diukur dengan test kit, atau dianalisis di laboratorium bila diperlukan hasil yang lebih teliti."
+        },
+        {
+          "h": "Catat secara teratur"
+        },
+        {
+          "p": "Satu kali pengukuran kurang bermakna. Catatan harian atau mingguan membantu melihat pola, misalnya oksigen yang turun setelah hujan atau amonia yang naik saat pakan ditambah. Dari pola itu, tindakan bisa diambil sebelum ikan terdampak."
+        },
+        {
+          "p": "Di bawah naungan CV Izdihaar 84, mesin dan peralatan laboratorium untuk sektor perikanan ditangani oleh perusahaan yang khusus menangani bidang tersebut."
+        }
+      ]
+    },
+    {
+      "slug": "perlengkapan-keselamatan-laboratorium",
+      "title": "Perlengkapan keselamatan yang wajib ada di laboratorium",
+      "category": "Artikel",
+      "date": "2026-10-13",
+      "image": "assets/foto/ruang-lab.jpg",
+      "summary": "Banyak kecelakaan di laboratorium bisa dicegah dengan perlengkapan sederhana yang selalu tersedia dan mudah dijangkau.",
+      "body": [
+        {
+          "p": "Bekerja dengan bahan kimia, sampel biologis, dan alat pemanas selalu membawa risiko. Perlengkapan keselamatan yang lengkap dan terawat memang tidak menghilangkan risiko itu, tetapi sangat mengurangi dampaknya bila terjadi kecelakaan."
+        },
+        {
+          "h": "Alat pelindung diri"
+        },
+        {
+          "ul": [
+            "Jas laboratorium yang menutup lengan.",
+            "Sarung tangan yang sesuai dengan bahan yang ditangani.",
+            "Kacamata pelindung, ditambah pelindung wajah untuk pekerjaan berisiko percikan.",
+            "Masker atau respirator untuk bahan yang menghasilkan uap atau debu."
+          ]
+        },
+        {
+          "h": "Perlengkapan ruangan"
+        },
+        {
+          "ul": [
+            "Lemari asam untuk pekerjaan dengan bahan kimia yang mudah menguap.",
+            "Pancuran darurat dan alat pencuci mata.",
+            "Alat pemadam api ringan yang sesuai jenis bahan.",
+            "Kotak P3K dan bahan penyerap tumpahan.",
+            "Wadah terpisah untuk limbah kimia, limbah biologis, dan benda tajam."
+          ]
+        },
+        {
+          "h": "Tetap terawat"
+        },
+        {
+          "p": "Periksa perlengkapan keselamatan secara berkala: tanggal kedaluwarsa alat pemadam, fungsi pancuran darurat, dan stok sarung tangan. Tempelkan petunjuk penggunaan di dekat setiap alat agar mudah diikuti saat keadaan darurat."
+        }
+      ]
+    },
+    {
+      "slug": "menyusun-daftar-kebutuhan-alat-laboratorium",
+      "title": "Menyusun daftar kebutuhan alat laboratorium sebelum pengadaan",
+      "category": "Artikel",
+      "date": "2026-10-11",
+      "image": "assets/foto/meja-lab.jpg",
+      "summary": "Daftar kebutuhan yang jelas membuat penawaran lebih cepat dibandingkan dan mengurangi risiko alat tidak terpakai. Berikut hal yang perlu ditulis sebelum meminta penawaran.",
+      "body": [
+        {
+          "p": "Pengadaan alat laboratorium sering tertunda bukan karena anggaran, tetapi karena daftar kebutuhannya belum cukup rinci untuk ditawar. Penyedia perlu menebak spesifikasi, penawaran yang masuk sulit dibandingkan, dan alat yang datang belum tentu cocok dengan pekerjaan di laboratorium. Daftar yang disusun dengan baik menghemat waktu kedua pihak."
+        },
+        {
+          "h": "Mulai dari pekerjaan, bukan dari nama alat"
+        },
+        {
+          "p": "Tulis dulu pengujian, praktikum, atau penelitian apa yang akan dilakukan, berapa sampel per hari, dan siapa yang mengoperasikan alat. Dari sana baru turunkan alat yang dibutuhkan. Cara ini membantu memisahkan alat yang wajib ada dari alat yang sekadar menarik untuk dimiliki."
+        },
+        {
+          "h": "Hal yang sebaiknya ada di setiap baris"
+        },
+        {
+          "ul": [
+            "Nama alat dan fungsi utamanya di laboratorium Anda.",
+            "Spesifikasi yang menentukan hasil kerja, misalnya kapasitas, rentang ukur, ketelitian, atau volume.",
+            "Jumlah unit dan lokasi penempatan.",
+            "Kebutuhan pendukung: daya listrik, air, gas, ventilasi, atau meja khusus.",
+            "Bahan habis pakai dan aksesori yang diperlukan agar alat bisa langsung digunakan.",
+            "Kebutuhan instalasi, pelatihan pengguna, kalibrasi, dan garansi."
+          ]
+        },
+        {
+          "h": "Periksa kesiapan ruangan"
+        },
+        {
+          "p": "Beberapa alat membutuhkan kondisi ruangan tertentu. Timbangan analitik, misalnya, perlu meja yang stabil dan bebas getaran. Alat dengan pemanas atau kompresor perlu sirkulasi udara dan daya listrik yang memadai. Mencatat kondisi ruangan di daftar kebutuhan membantu penyedia menyarankan model yang sesuai."
+        },
+        {
+          "h": "Pikirkan biaya selama alat dipakai"
+        },
+        {
+          "p": "Harga pembelian hanya sebagian dari biaya. Hitung juga bahan habis pakai, suku cadang, kalibrasi berkala, dan layanan purna jual. Tanyakan ketersediaan semuanya sejak awal agar alat tetap bisa digunakan bertahun-tahun setelah serah terima."
+        },
+        {
+          "p": "Jika daftar Anda sudah siap, kirimkan melalui halaman Hubungi Kami. Kami akan meneruskannya ke perusahaan dalam grup yang menangani bidang tersebut."
+        }
+      ]
+    },
+    {
+      "slug": "menjaga-stok-bahan-habis-pakai-laboratorium",
+      "title": "Menjaga stok bahan habis pakai laboratorium tetap aman",
+      "category": "Artikel",
+      "date": "2026-10-11",
+      "image": "assets/foto/tabung.jpg",
+      "summary": "Kehabisan bahan habis pakai bisa menghentikan pekerjaan laboratorium. Pencatatan sederhana dan titik pesan ulang membantu menjaga stok tanpa menumpuk barang.",
+      "body": [
+        {
+          "p": "Bahan habis pakai adalah barang yang berkurang setiap kali laboratorium bekerja: reagen, media, kertas saring, tip pipet, sarung tangan, sampai wadah sampel. Nilainya per satuan kecil, tetapi saat salah satunya habis, pengujian atau praktikum bisa berhenti."
+        },
+        {
+          "h": "Catat pemakaian, bukan hanya pembelian"
+        },
+        {
+          "p": "Banyak laboratorium mencatat kapan barang dibeli, tetapi tidak mencatat seberapa cepat barang itu terpakai. Catatan pemakaian bulanan, meskipun hanya di lembar kerja sederhana, sudah cukup untuk memperkirakan kebutuhan satu semester atau satu tahun anggaran."
+        },
+        {
+          "h": "Tentukan titik pesan ulang"
+        },
+        {
+          "p": "Untuk setiap barang penting, tetapkan jumlah minimum yang memicu pemesanan. Dasarnya adalah pemakaian rata-rata dikalikan lama waktu pengiriman, ditambah cadangan. Barang dengan waktu pengiriman panjang perlu titik pesan ulang yang lebih tinggi."
+        },
+        {
+          "h": "Perhatikan masa kedaluwarsa dan penyimpanan"
+        },
+        {
+          "ul": [
+            "Gunakan barang yang lebih dulu kedaluwarsa terlebih dahulu.",
+            "Simpan bahan sesuai petunjuk pada label dan lembar data keselamatan bahan, termasuk suhu dan paparan cahaya.",
+            "Beri tanggal buka pada kemasan reagen.",
+            "Pisahkan bahan yang tidak boleh disimpan berdekatan."
+          ]
+        },
+        {
+          "h": "Gabungkan pemesanan bila memungkinkan"
+        },
+        {
+          "p": "Pemesanan terjadwal untuk beberapa barang sekaligus biasanya lebih mudah dikelola daripada pembelian mendadak satu per satu. Daftar kebutuhan rutin juga memudahkan penyedia menyiapkan barang sebelum Anda membutuhkannya."
+        }
+      ]
+    },
+    {
+      "slug": "memilih-peralatan-laboratorium-pertanian-peternakan-perikanan",
+      "title": "Memilih peralatan laboratorium untuk pertanian, peternakan, dan perikanan",
+      "category": "Artikel",
+      "date": "2026-10-11",
+      "image": "assets/foto/bibit.jpg",
+      "summary": "Laboratorium di sektor pertanian, peternakan, dan perikanan bekerja dengan sampel yang beragam dan sering berada jauh dari kota. Ini pertimbangan saat memilih mesin dan peralatannya.",
+      "body": [
+        {
+          "p": "Laboratorium di sektor pertanian, peternakan, dan perikanan menangani sampel yang sangat beragam: tanah, benih, pakan, jaringan tanaman, air kolam, sampai produk hasil panen. Peralatannya harus sesuai dengan jenis sampel tersebut dan dengan kondisi tempat laboratorium berada."
+        },
+        {
+          "h": "Kenali sampel dan volume kerja"
+        },
+        {
+          "p": "Jenis sampel menentukan cara persiapan dan alat yang diperlukan. Jumlah sampel per hari menentukan kapasitas. Laboratorium pengajaran, laboratorium penelitian, dan unit pengujian di lapangan bisa memerlukan alat yang berbeda untuk parameter yang sama."
+        },
+        {
+          "h": "Sesuaikan dengan kondisi lokasi"
+        },
+        {
+          "p": "Banyak fasilitas di sektor ini berada dekat lahan, kandang, atau tambak. Periksa kestabilan listrik, kualitas air, kelembapan, dan debu di lokasi. Untuk pekerjaan di lapangan, alat portabel yang tahan kondisi luar ruang sering lebih berguna daripada alat meja yang lebih teliti tetapi sulit dipindahkan."
+        },
+        {
+          "h": "Pastikan dukungan setelah pembelian"
+        },
+        {
+          "ul": [
+            "Siapa yang melakukan instalasi dan uji fungsi di lokasi.",
+            "Apakah operator mendapat pelatihan penggunaan dan perawatan dasar.",
+            "Ketersediaan suku cadang dan bahan habis pakai.",
+            "Jadwal dan cara kalibrasi atau verifikasi alat."
+          ]
+        },
+        {
+          "h": "Rencanakan bertahap"
+        },
+        {
+          "p": "Jika anggaran terbatas, dahulukan alat untuk parameter yang paling sering diuji, lalu tambah secara bertahap. Menyampaikan rencana jangka panjang kepada penyedia membantu memilih peralatan yang masih sesuai saat laboratorium berkembang."
+        },
+        {
+          "p": "Di bawah naungan CV Izdihaar 84, bidang ini ditangani oleh perusahaan yang khusus menangani mesin dan peralatan laboratorium untuk pertanian, peternakan, dan perikanan."
+        }
+      ]
+    }
+  ],
+  "project_fields": [
+    "Farmasi",
+    "Kedokteran",
+    "Pertanian",
+    "Peternakan",
+    "Bahan habis pakai"
+  ],
+  "_petunjuk_perusahaan": "Data 'companies' hanya dipakai untuk menghitung jumlah dan bidang perusahaan. Nama, logo, dan deskripsinya tidak ditampilkan di situs."
+}
